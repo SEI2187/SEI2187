@@ -1,0 +1,5 @@
+- 👋 Hi, I’m SEI2187
+- 👀 i code in javascript html css and c++
+- 🌱 im currently learning rust
+- 📫 you can reach me on my discord server https://discord.com/invite/wTz4JbYeTt
+- 😄 pronouns: they/them 
