@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm SEI2187
+# 👋haii :3 im SEI2187
 
 > *"im just a random silly lil guy :3"*
 
