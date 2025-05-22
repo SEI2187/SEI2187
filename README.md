@@ -6,7 +6,7 @@ welcome to my profile :3 i do web stuff and random other stuff :3
 
 ## 🛠️ Languages & Tools
 
-- **Languages:** HTML, CSS, JavaScript, Python, C++, and more!
+- **Languages:** JavaScript, Python, C++, C, and more!
 - **Frameworks & Libraries:** React, Node.js
 - **Tools & Platforms:** Git, GitHub, VS Code
 
